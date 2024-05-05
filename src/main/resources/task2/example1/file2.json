@@ -1,0 +1,37 @@
+{
+  "problems": [
+    {
+      "hash": "4308iv8",
+      "data": [
+        "Possible NullPointerException",
+        "A.java",
+        "10:1:2",
+        "NullPointerCheck",
+        "WARNING",
+        "CWE-476"
+      ]
+    },
+    {
+      "hash": "324asd34",
+      "data": [
+        "build.gradle",
+        "1:2:30",
+        "Some Dependency",
+        "ABC-1325",
+        "SOME_ERROR",
+        "SomethingBadHappened"
+      ]
+    },
+    {
+      "hash": "3b9ba51",
+      "data": [
+        "build.gradle",
+        "3:5:10",
+        "Vulnerable Dependency",
+        "CWE-1395",
+        "VULNERABILITY",
+        "VulnerabilityCheck"
+      ]
+    }
+  ]
+}

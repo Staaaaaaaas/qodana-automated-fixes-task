@@ -1,0 +1,36 @@
+{
+  "problems": [
+    {
+      "hash": "3b9ba51",
+      "data": [
+        "build.gradle",
+        "3:5:10",
+        "Vulnerable Dependency",
+        "CWE-1395",
+        "VULNERABILITY",
+        "VulnerabilityCheck"
+      ]
+    },
+    {
+      "hash": "1337",
+      "data": [
+        "Lorem",
+        "Ipsum",
+        "Dolor",
+        "Sit",
+        "Amet"
+      ]
+    },
+    {
+      "hash": "4308iv8",
+      "data": [
+        "NullPointerCheck",
+        "Possible NullPointerException",
+        "A.java",
+        "10:1:2",
+        "WARNING",
+        "CWE-476"
+      ]
+    }
+  ]
+}
